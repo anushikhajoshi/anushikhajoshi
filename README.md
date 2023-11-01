@@ -1,3 +1,3 @@
 Hey! I am Anushikha from Singapore. I am currently an undergraduate student at the University of Toronto, studying Mathematics and Physics. 
-I am originally from Delhi, India; but grew up in Singapore, and went to high school in Tokyo, Japan where I did the IB program. 
-I love cycling, painting, music and watching anime. My favourite artists are Phoebe Bridgers, Joji, Tame Impala and Arctic Monkeys.
+My github is a work in progress where I post some of my computational work, mostly projects I have done in areas of mathematics and computational physics. Feel free to
+reach out to me at anushikha.joshi@mail.utoronto.ca!
